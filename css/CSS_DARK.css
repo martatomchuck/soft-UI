@@ -45,18 +45,6 @@ html {
    
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .container {
   min-height: 100vh;
   display: -webkit-box;
@@ -594,7 +582,7 @@ html {
    
 }
 .search__input:focus + .search__icon {
-  color: var(--primary);
+  color: #ff0047;
 }
 .search__icon {
   height: 2rem;
